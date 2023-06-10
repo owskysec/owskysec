@@ -1,4 +1,8 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/multi-screen.gif" />
+<br>    
+<br>
+<br>
 <h1 align="center">Hi 👋, I'm Oki Dwi Saputra -/N3T1Z3N</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
