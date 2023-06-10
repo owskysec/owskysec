@@ -36,3 +36,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=owskysec&show_icons=true&locale=en" alt="owskysec" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=owskysec&" alt="owskysec" /></p>
+
+
+
+
+<br>
+<p align="center">
+    <a href="https://github.com/owskysec"><img width="48%" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=owskysec&theme=dracula&show_icons=true&hide_border=true"></a>
+    <a href="https://github.com/owskysec"><img width="48%" alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com?user=owskysec&theme=dracula&hide_border=true"></a>
+</p>
