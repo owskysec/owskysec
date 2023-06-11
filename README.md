@@ -1,6 +1,9 @@
 
-<img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/multi-screen.gif" />
-<br>    
+<img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/productive.gif" />
+<br>  
+<br>
+<br>
+  
 <br>
 <br>
 <h1 align="center">Hi 👋, I'm Oki Dwi Saputra -/N3T1Z3N</h1>
