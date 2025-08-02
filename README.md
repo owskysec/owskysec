@@ -1,4 +1,4 @@
-## Hi there, I'm Oki Dwi Saputra - aka [N3T1Z3N][OWSKYSEC]
+## Hi there, I'm Oki Dwi Saputra - [N3T1Z3N]
 
 I'm a Student, if there is a mistake please guide me
 
